@@ -24,7 +24,7 @@ Rename [`.env.example`](.env.example) to `.env.local`:
 cp .env.example .env.local
 ```
 
-then, update `OPENAI_API_KEY` with your [OpenAI](https://beta.openai.com/account/api-keys) secret key.
+then, update api key
 
 Next, run Next.js in development mode:
 
@@ -36,3 +36,11 @@ The app should be up and running at http://localhost:3000.
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=edge-middleware-eap) ([Documentation](https://nextjs.org/docs/deployment)).
 
+## License
+
+<div align="center">  
+
+<img width=35% src="https://media0.giphy.com/media/3ornjXbo3cjqh2BIyY/200.gif"></p>
+
+<br>
+</div>
